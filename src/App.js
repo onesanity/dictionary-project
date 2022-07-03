@@ -13,7 +13,7 @@ function App() {
         alt="logo" />
       </header>
       <main>
-        <Dictionary />
+        <Dictionary defaultKeyword="stillness" />
       </main>
       <footer className='text-center'>
         <small>Coded by Alina Nguyen</small>

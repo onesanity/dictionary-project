@@ -1,0 +1,11 @@
+.Meaning h3 {
+  font-size: 25px;
+  line-height: 1.5px;
+  font-weight: bold;
+  margin-bottom: 15px;
+}
+
+.Meaning .example {
+  font-style: italic;
+  color: #70757a;
+}
