@@ -1,9 +1,16 @@
 body {
   background-color: #EBE6E4;
 }
+.App-header {
+  margin: 15px 0;
+}
 .App-logo {
   max-width: 250px;
   display: block;
   margin: 0 auto;
 }
 
+.App-footer {
+  text-align: center;
+  margin: 30px 0;
+}
