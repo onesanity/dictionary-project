@@ -16,7 +16,19 @@ function App() {
         <Dictionary defaultKeyword="stillness" />
       </main>
       <footer className='text-center'>
-        <small>Coded by Alina Nguyen</small>
+        <small>This project was coded by {" "}
+          Alina Nguyen and is{" "}
+        <a 
+          href="https://github.com/onesanity/dictionary-project" 
+          target="_blank"
+          rel="noopener noreferrer">
+          open sourced on Git Hub</a> and {" "}
+          <a 
+          href="https://illustrious-heliotrope-51d49f.netlify.app/" 
+          target="_blank"
+          rel="noopener noreferrer">
+          hosted on Netlify</a>.
+</small>
 
         </footer>
       </div>
